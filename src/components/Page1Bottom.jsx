@@ -20,8 +20,8 @@ const Page1Bottom = () => {
             <h1 className='text-[20px] font-regular text-black'>BESPOKE FREELANCE</h1>
       </div>
       <div id='banner'>
-        <img className='h-[85px] mb-6' src='https://static.wixstatic.com/media/f1c650_ed71078001ef401889b71537cca76dc4~mv2.png/v1/fill/w_101,h_101,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/cssda-wotd-white.png'></img>
-        <img className='h-[85px] mb-6' src='https://static.wixstatic.com/media/f1c650_64de2af00f41462e8aecc3d04537f9b4~mv2.png/v1/fill/w_101,h_101,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/EN_legend_large.png'></img>
+        <img className='h-[55px] w-[55px] object-cover rounded-full mb-6' src='https://static.vecteezy.com/system/resources/previews/021/496/664/non_2x/windows-symbol-brand-logo-white-design-microsoft-software-illustration-with-black-background-free-vector.jpg'></img>
+        <img className='h-[55px] w-[55px] object-cover rounded-full mb-6' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMzEkaAN0BJ2o3ri2IsQRKXVk6ejQQqz0GUg&s'></img>
       </div>
     </div>
   );
